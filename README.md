@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, my name's Akira 👋
+
+I'm a rising freshman at the University of Waterloo in Computer Engineering. Looking for interesting projects to work on!
+
+I'm proficient in Python, SQL, Java and HTML/CSS. I'm currently learning C and C++.
+
+I've built web apps, machine learning models, data analysis scripts, two robots, done research in signals processing and more :) If you want to see my previous projects, look down below &#8595;
 
 <!--
 **AkiraY1/AkiraY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
