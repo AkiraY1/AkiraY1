@@ -1,6 +1,6 @@
 ## Hi, my name's Akira 👋
 
-I'm a freshman at the University of Waterloo in Computer Engineering. Looking for interesting projects to work on!
+I'm a student at the University of Waterloo in Computer Engineering. Looking for interesting projects to work on!
 
 I'm proficient in Python, SQL, Java and HTML/CSS. I'm currently learning C and C++.
 
