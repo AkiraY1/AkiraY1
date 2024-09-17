@@ -1,10 +1,12 @@
 ## Hi, my name's Akira 👋
 
-I'm a student at the University of Waterloo in Computer Engineering. Looking for interesting projects to work on!
+I'm a student at the University of Waterloo in Computer Engineering.
 
-I'm proficient in Python, SQL, Java and HTML/CSS. I'm currently learning C and C++.
+I'm proficient in Python, C++, C, SQL, VHDL and Verilog.
 
-I've built web apps, machine learning models, data analysis scripts, two robots, done research in signals processing and more :) If you want to see my previous projects, look down below &#8595;
+I've built machine learning models, data analysis scripts, two robots, done research in signals processing and more :) If you want to see my previous projects, look down below &#8595;
+
+!! Note (Sept 2024): My Github is outdated !!
 
 <!--
 **AkiraY1/AkiraY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
